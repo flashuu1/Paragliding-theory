@@ -353,9 +353,9 @@ function openTheory(level, startAfter) {
 function closeTheory(startQuiz) {
   document.getElementById('theory-modal').style.display = 'none';
   document.body.style.overflow = '';
-  if (startQuiz && theoryPendingLevel) {
+  if (theoryPendingLevel) {
     sessionStorage.setItem('theory_dismissed_' + theoryPendingLevel, '1');
-    selectLevel(theoryPendingLevel, true);
+    if (startQuiz) selectLevel(theoryPendingLevel, true);
   }
   theoryPendingLevel = null;
 }
@@ -405,6 +405,7 @@ let state = { level:"easy", quiz:[], answers:[], graded:false };
 function shuffle(arr){const a=arr.slice();for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;}
 
 function buildQuiz(level){
+  if (!BANK || !BANK[level] || !BANK[level].length) return [];
   const n = Math.min(DRAW[level]||25, BANK[level].length);
   const picked = shuffle(BANK[level]).slice(0, n);
   return picked.map(q=>{
@@ -426,11 +427,13 @@ function selectLevel(level, skipTheory){
     return;
   }
   state.level = level;
+  document.querySelectorAll('.lvl').forEach(b =>
+    b.setAttribute('aria-selected', b.dataset.level === level ? 'true' : 'false'));
   $("#exam-title").textContent = META[level].title;
   $("#exam-desc").textContent  = META[level].desc;
   $("#result").classList.remove("show");
   if(level === "anatomy"){ setBar(false); renderAnatomy(); }
-  else { setBar(true); state.quiz = buildQuiz(level); render(); }
+  else { state.quiz = buildQuiz(level); if (state.quiz.length) { setBar(true); render(); } }
 }
 
 function mountFigure(host, fig, withChips){
@@ -749,12 +752,12 @@ if (lang === 'en') {
   <div style="max-width:720px;margin:0 auto;background:var(--card);border-radius:16px;padding:28px 28px 24px;box-shadow:0 24px 60px -20px rgba(0,0,0,.5)">
     <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:20px">
       <h2 id="modal-title-text" style="font-size:22px;font-weight:700;color:var(--ink)">Teorija</h2>
-      <button onclick="closeTheory(true)" style="appearance:none;border:0;background:none;font-size:26px;line-height:1;cursor:pointer;color:var(--muted);padding:2px 8px" aria-label="Uždaryti">&times;</button>
+      <button onclick="closeTheory(false)" style="appearance:none;border:0;background:none;font-size:26px;line-height:1;cursor:pointer;color:var(--muted);padding:2px 8px" aria-label="Uždaryti">&times;</button>
     </div>
     <div id="theory-content" style="max-height:60vh;overflow-y:auto;padding-right:4px"></div>
     <div style="margin-top:20px;display:flex;gap:12px;flex-wrap:wrap;border-top:1px solid var(--hair);padding-top:16px">
       <button id="theory-start-btn" class="btn btn-primary" onclick="closeTheory(true)" style="display:none">Pradėti testą</button>
-      <button class="btn btn-ghost" onclick="closeTheory(true)" id="theory-close-btn">Uždaryti</button>
+      <button class="btn btn-ghost" onclick="closeTheory(false)" id="theory-close-btn">Uždaryti</button>
     </div>
   </div>
 </div>
