@@ -2178,31 +2178,31 @@ window.BANK = {
       ]
     },
     {
-      "q_lt": "Ka rodo variometras?",
+      "q_lt": "Ką rodo variometras?",
       "q_en": "What does a variometer show?",
       "cat": "Medžiagos",
       "cat_en": "Equipment",
-      "why_lt": "Variometras matuoja ir rodo kilimo arba kritimo greiti metrais per sekunde (m/s). Tai esminis prietaisas parasparnio pilotams - leidzia jausti termika ir kontroliuoti aukscio pokycius.",
+      "why_lt": "Variometras matuoja ir rodo kilimo arba kritimo greitį metrais per sekundę (m/s). Tai esminis prietaisas parasparnio pilotams - leidžia jausti termiką ir kontroliuoti aukščio pokyčius.",
       "why_en": "A variometer measures and displays the rate of climb or sink in metres per second (m/s). It is an essential instrument for paraglider pilots to detect thermals and monitor altitude changes.",
       "multi": false,
       "options": [
         {
-          "t_lt": "Kilimo arba kritimo greiti metrais per sekunde",
+          "t_lt": "Kilimo arba kritimo greitį metrais per sekundę",
           "t_en": "Rate of climb or sink in metres per second",
           "correct": true
         },
         {
-          "t_lt": "Horizontalu skrydZio greiti km/h",
+          "t_lt": "Horizontalų skrydžio greitį km/h",
           "t_en": "Horizontal airspeed in km/h",
           "correct": false
         },
         {
-          "t_lt": "Atstuma iki tikslo",
+          "t_lt": "Atstumą iki tikslo",
           "t_en": "Distance to the destination",
           "correct": false
         },
         {
-          "t_lt": "Vejo kryptI ir stipruma",
+          "t_lt": "Vėjo kryptį ir stiprumą",
           "t_en": "Wind direction and speed",
           "correct": false
         }
@@ -2213,48 +2213,48 @@ window.BANK = {
       "q_en": "What is the A-riser in a paraglider system?",
       "cat": "Medžiagos",
       "cat_en": "Equipment",
-      "why_lt": "A-rizeris - priekinis rizeris, jungiamas prie A eiles stropu, kurie eina prie kupolo priekinio briauno (nosies). Traukiant A-rizeri zemiyn aktyvuojama Big Ears maneuvra arba pasyvi valdymo technika.",
+      "why_lt": "A-rizeris - priekinis rizeris, jungiamas prie A eilės stropų, kurie eina prie kupolo priekinio briauno (nosies). Traukiant A-rizerį žemyn aktyvuojamas Big Ears manevras arba pasyvi valdymo technika.",
       "why_en": "The A-riser is the front riser connected to the A-lines that attach to the leading edge (nose) of the canopy. Pulling the A-riser down initiates Big Ears or passive control techniques.",
       "multi": false,
       "options": [
         {
-          "t_lt": "Priekinis rizeris, jungiantis A eiles stropolus prie kupolo priekinio briauno",
+          "t_lt": "Priekinis rizeris, jungiantis A eilės stropus prie kupolo priekinio briauno",
           "t_en": "Front riser connecting A-lines to the leading edge of the canopy",
           "correct": true
         },
         {
-          "t_lt": "Galinis rizeris, valdantis stabdzius",
+          "t_lt": "Galinis rizeris, valdantis stabdžius",
           "t_en": "Rear riser controlling the brakes",
           "correct": false
         },
         {
-          "t_lt": "Petnesu priekine juosta",
+          "t_lt": "Petnešų priekinė juosta",
           "t_en": "The front strap of the harness",
           "correct": false
         },
         {
-          "t_lt": "Stabdzo virvute prisijungusi prie kupolo",
+          "t_lt": "Stabdžio virvutė prisijungusi prie kupolo",
           "t_en": "A brake cord attached to the canopy",
           "correct": false
         }
       ]
     },
     {
-      "q_lt": "Ka daro akseleratorius (greicio pedalas)?",
+      "q_lt": "Ką daro akseleratorius (greičio pedalas)?",
       "q_en": "What does the speed bar (akseleratorius) do?",
       "cat": "Medžiagos",
       "cat_en": "Equipment",
-      "why_lt": "Akseleratorius per lyno sistema pastumia A ir B rizeriius zemiyn, sumazina puolimo kampa ir taip padidina kupolo greiti. Tai leidzia greiciau skristi, taciau sumazina stabdzio atsarga.",
+      "why_lt": "Akseleratorius per lyno sistemą pastumia A ir B rizerius žemyn, sumažina puolimo kampą ir taip padidina kupolo greitį. Tai leidžia greičiau skristi, tačiau sumažina stabdžio atsargą.",
       "why_en": "The speed bar pushes the A and B risers forward via a pulley system, reducing the angle of attack and thus increasing airspeed. It allows faster flight but reduces brake margin.",
       "multi": false,
       "options": [
         {
-          "t_lt": "Sumazina puolimo kampa ir padidina skrydZio greiti",
+          "t_lt": "Sumažina puolimo kampą ir padidina skrydžio greitį",
           "t_en": "Reduces the angle of attack and increases airspeed",
           "correct": true
         },
         {
-          "t_lt": "Stabdo kupola, mazindamas greiti",
+          "t_lt": "Stabdo kupolą, mažindamas greitį",
           "t_en": "Brakes the canopy, reducing speed",
           "correct": false
         },
@@ -2264,7 +2264,7 @@ window.BANK = {
           "correct": false
         },
         {
-          "t_lt": "Keicia balno aukšti petnesose",
+          "t_lt": "Keičia balno aukštį petnešose",
           "t_en": "Adjusts the seat height in the harness",
           "correct": false
         }
@@ -2275,12 +2275,12 @@ window.BANK = {
       "q_en": "What is a cell in a paraglider?",
       "cat": "Medžiagos",
       "cat_en": "Equipment",
-      "why_lt": "Kamera - tai kupolo vidinis oro skyrimas, suformuotas pertvarų ir siuliu. Oras iieina pro priekinio briauno angas ir pripildo kameras, suteikdamas kupolui forma.",
+      "why_lt": "Kamera - tai kupolo vidinis oro skyrimas, suformuotas pertvarų ir siūlių. Oras įeina pro priekinio briauno angas ir pripildo kameras, suteikdamas kupolui formą.",
       "why_en": "A cell is an internal air chamber formed by the ribs and seams inside the canopy. Air enters through leading-edge intakes and pressurises the cells, giving the canopy its shape.",
       "multi": false,
       "options": [
         {
-          "t_lt": "Vidinis oro skyrimas, suformuotas pertvarų ir siuliu",
+          "t_lt": "Vidinis oro skyrimas, suformuotas pertvarų ir siūlių",
           "t_en": "Internal air chamber formed by ribs and seams",
           "correct": true
         },
@@ -2302,31 +2302,31 @@ window.BANK = {
       ]
     },
     {
-      "q_lt": "Ka matuoja altimetras?",
+      "q_lt": "Ką matuoja altimetras?",
       "q_en": "What does an altimeter measure?",
       "cat": "Medžiagos",
       "cat_en": "Equipment",
-      "why_lt": "Altimetras matuoja aukšti virš juros lygio arba pasirinkto atskaitos tašo naudodamas atmosferos slegi. Pilotas gali nustatyti atskaitos tašą pagal pakilimo vieta.",
+      "why_lt": "Altimetras matuoja aukštį virš jūros lygio arba pasirinkto atskaitos taško naudodamas atmosferos slėgį. Pilotas gali nustatyti atskaitos tašką pagal pakilimo vietą.",
       "why_en": "An altimeter measures altitude above sea level (or a chosen reference datum) using atmospheric pressure. The pilot can set the reference to the launch altitude.",
       "multi": false,
       "options": [
         {
-          "t_lt": "Aukšti virš juros lygio arba pasirinkto atskaitos tašo",
+          "t_lt": "Aukštį virš jūros lygio arba pasirinkto atskaitos taško",
           "t_en": "Altitude above sea level or a chosen reference datum",
           "correct": true
         },
         {
-          "t_lt": "Kilimo greiti metrais per sekunde",
+          "t_lt": "Kilimo greitį metrais per sekundę",
           "t_en": "Rate of climb in metres per second",
           "correct": false
         },
         {
-          "t_lt": "Horizontalu greiti km/h",
+          "t_lt": "Horizontalų greitį km/h",
           "t_en": "Horizontal airspeed in km/h",
           "correct": false
         },
         {
-          "t_lt": "Vejo stipruma",
+          "t_lt": "Vėjo stiprumą",
           "t_en": "Wind speed",
           "correct": false
         }
@@ -2337,17 +2337,17 @@ window.BANK = {
       "q_en": "What is brake travel?",
       "cat": "Medžiagos",
       "cat_en": "Equipment",
-      "why_lt": "Stabdžių eiga - tai kelias, kuri galima nuspausti stabdžio rankeneLE zemiyn iki kupolo sąstingio (stall) tašo. Pernelyg maža eiga reiškia greitesni sąstingi; per didelE - letesne reakcija.",
+      "why_lt": "Stabdžių eiga - tai kelias, kurį galima nuspausti stabdžio rankenėlę žemyn iki kupolo sąstingio (stall) taško. Pernelyg maža eiga reiškia greitesnį sąstingį; per didelė - lėtesnė reakcija.",
       "why_en": "Brake travel is the distance the brake toggle can be pulled down before the canopy enters a stall. Too little travel means a faster stall; too much means a slower response.",
       "multi": false,
       "options": [
         {
-          "t_lt": "Nuotolis, kuri galima nuspausti stabdžio rankeneLE iki sąstingio",
+          "t_lt": "Nuotolis, kurį galima nuspausti stabdžio rankenėlę iki sąstingio",
           "t_en": "Distance the brake toggle can be pulled before stall",
           "correct": true
         },
         {
-          "t_lt": "Stabdžių virveles ilgis",
+          "t_lt": "Stabdžių virvutės ilgis",
           "t_en": "The length of the brake cord",
           "correct": false
         },
@@ -2357,7 +2357,7 @@ window.BANK = {
           "correct": false
         },
         {
-          "t_lt": "Rankenelee svoris",
+          "t_lt": "Rankenėlės svoris",
           "t_en": "Weight of the toggle",
           "correct": false
         }
@@ -2368,17 +2368,17 @@ window.BANK = {
       "q_en": "What are cascade lines?",
       "cat": "Medžiagos",
       "cat_en": "Equipment",
-      "why_lt": "Kaskados stropai - tarpiniai stropai, jungiantys rizeriius su viršutiniomis (galinemiis) stropu eileemis. Jie sudaro kaskadu sistema, paskirstydami apkrova tarp daugelio prisijungimo tašku kupolo žarnoje.",
+      "why_lt": "Kaskados stropai - tarpiniai stropai, jungiantys rizerius su viršutinėmis (galinėmis) stropų eilėmis. Jie sudaro kaskadų sistemą, paskirstydami apkrovą tarp daugelio prisijungimo taškų kupolo žarnoje.",
       "why_en": "Cascade lines are intermediate connecting lines between the risers and the upper gallery lines. They form a cascade system that distributes load across multiple attachment points at the canopy.",
       "multi": false,
       "options": [
         {
-          "t_lt": "Tarpiniai stropai, jungiantys rizeriius su viršutinemis eileemis",
+          "t_lt": "Tarpiniai stropai, jungiantys rizerius su viršutinėmis eilėmis",
           "t_en": "Intermediate lines connecting risers to the upper gallery lines",
           "correct": true
         },
         {
-          "t_lt": "Stropai, tiesiogiai jungiantys rizeriius prie kupolo",
+          "t_lt": "Stropai, tiesiogiai jungiantys rizerius prie kupolo",
           "t_en": "Lines connecting the riser directly to the canopy",
           "correct": false
         },
@@ -2388,49 +2388,49 @@ window.BANK = {
           "correct": false
         },
         {
-          "t_lt": "Papildomos stabilumo virvutees",
+          "t_lt": "Papildomos stabilumo virvutės",
           "t_en": "Extra stability cords",
           "correct": false
         }
       ]
     },
     {
-      "q_lt": "Ka reiškia EN A sertifikatas parasparnio klasifikacijoje?",
+      "q_lt": "Ką reiškia EN A sertifikatas parasparnio klasifikacijoje?",
       "q_en": "What does EN class A certification mean for a paraglider?",
       "cat": "Medžiagos",
       "cat_en": "Equipment",
-      "why_lt": "EN A - aukšciausia pasyvaus saugumo klase. Šie sparnai yra patys pakantiausi klaidoms, greitai ir stabiliai atsikuria po perturbaciju, todeel labiausiai tinkami pradedantiesiems.",
+      "why_lt": "EN A - aukščiausia pasyvaus saugumo klasė. Šie sparnai yra patys pakantiausi klaidoms, greitai ir stabiliai atsikuria po perturbacijų, todėl labiausiai tinkami pradedantiesiems.",
       "why_en": "EN A is the highest passive-safety rating. These wings are the most forgiving, recover quickly and stably from disturbances, and are most suitable for beginner pilots.",
       "multi": false,
       "options": [
         {
-          "t_lt": "Aukšciausia pasyvaus saugumo klase, geriausia pradedantiesiems",
+          "t_lt": "Aukščiausia pasyvaus saugumo klasė, geriausia pradedantiesiems",
           "t_en": "Highest passive safety class, best suited for beginners",
           "correct": true
         },
         {
-          "t_lt": "Labiausiai manevringa ir greicciausia klase",
+          "t_lt": "Labiausiai manevringa ir greičiausia klasė",
           "t_en": "Most manoeuvrable and fastest class",
           "correct": false
         },
         {
-          "t_lt": "Tik akrobatiniams skrydžiams skirta klase",
+          "t_lt": "Tik akrobatiniams skrydžiams skirta klasė",
           "t_en": "Class intended only for aerobatic flight",
           "correct": false
         },
         {
-          "t_lt": "Klase su maziausiomis sertifikavimo reikalavimais",
+          "t_lt": "Klasė su mažiausiais sertifikavimo reikalavimais",
           "t_en": "Class with the fewest certification requirements",
           "correct": false
         }
       ]
     },
     {
-      "q_lt": "Kokia yra atsarginio parašiuto aktyvavimo rankeneelee paskirtis?",
+      "q_lt": "Kokia yra atsarginio parašiuto aktyvavimo rankenėlės paskirtis?",
       "q_en": "What is the purpose of the deployment handle on a reserve parachute?",
       "cat": "Medžiagos",
       "cat_en": "Equipment",
-      "why_lt": "Aktyvavimo rankenelee leidzia pilotui greitai ir patikimai aktyvuoti atsargini parašiutą kritineeje situacijoje. Ji turi buti lengvai pasiekiama ir aiškiai paźymeta.",
+      "why_lt": "Aktyvavimo rankenėlė leidžia pilotui greitai ir patikimai aktyvuoti atsarginį parašiutą kritinėje situacijoje. Ji turi būti lengvai pasiekiama ir aiškiai pažymėta.",
       "why_en": "The deployment handle allows the pilot to quickly and reliably activate the reserve parachute in a critical emergency. It must be easily reachable and clearly marked.",
       "multi": false,
       "options": [
@@ -2440,7 +2440,7 @@ window.BANK = {
           "correct": true
         },
         {
-          "t_lt": "Valdyti pagrindinI kupola",
+          "t_lt": "Valdyti pagrindinį kupolą",
           "t_en": "To control the main canopy",
           "correct": false
         },
@@ -2450,7 +2450,7 @@ window.BANK = {
           "correct": false
         },
         {
-          "t_lt": "Paleisti SOS signala",
+          "t_lt": "Paleisti SOS signalą",
           "t_en": "To trigger an SOS signal",
           "correct": false
         }
@@ -2461,12 +2461,12 @@ window.BANK = {
       "q_en": "How often should a reserve parachute be repacked?",
       "cat": "Medžiagos",
       "cat_en": "Equipment",
-      "why_lt": "Gamintojai paprastai rekomenduoja perpakuoti atsargini parašiutą kas 6-12 meneesiu. Reguliarus perpakavimas užtikrina, kad audinys nesusigaudytu ir parašiutas tinkamai atsidarys.",
+      "why_lt": "Gamintojai paprastai rekomenduoja perpakuoti atsarginį parašiutą kas 6-12 mėnesių. Reguliarus perpakavimas užtikrina, kad audinys nesusigaudytų ir parašiutas tinkamai atsidarys.",
       "why_en": "Manufacturers typically recommend repacking the reserve parachute every 6-12 months. Regular repacking ensures the fabric does not compact and the reserve will open correctly.",
       "multi": false,
       "options": [
         {
-          "t_lt": "Kas 6-12 meneesiu pagal gamintojo rekomendacijas",
+          "t_lt": "Kas 6-12 mėnesių pagal gamintojo rekomendacijas",
           "t_en": "Every 6-12 months per manufacturer recommendations",
           "correct": true
         },
@@ -2492,12 +2492,12 @@ window.BANK = {
       "q_en": "What does the rear riser connect to?",
       "cat": "Medžiagos",
       "cat_en": "Equipment",
-      "why_lt": "Galinis (D arba C/D) rizeris jungiamas prie galinIU (D arba C) eiliu stropu, kurie eina prie kupolo galinio briauno. Jis taip pat susijees su greicio sistema per lyno skriemuli kai kuriuose sparno modeliuose.",
+      "why_lt": "Galinis (D arba C/D) rizeris jungiamas prie galinių (D arba C) eilių stropų, kurie eina prie kupolo galinio briauno. Jis taip pat susijęs su greičio sistema per lyno skriemulį kai kuriuose sparno modeliuose.",
       "why_en": "The rear (D or C/D) riser connects to the rear (D or C) line group going to the trailing edge of the canopy. It is also linked to the speed system via a pulley on some gliders.",
       "multi": false,
       "options": [
         {
-          "t_lt": "Prie C arba D eilees stropu, einanciu prie kupolo galinio briauno",
+          "t_lt": "Prie C arba D eilių stropų, einančių prie kupolo galinio briauno",
           "t_en": "To the C or D lines going to the trailing edge of the canopy",
           "correct": true
         },
@@ -2507,7 +2507,7 @@ window.BANK = {
           "correct": false
         },
         {
-          "t_lt": "Prie akseleratoriaus pedalu tiesiogiai",
+          "t_lt": "Prie akseleratoriaus pedalų tiesiogiai",
           "t_en": "Directly to the speed bar pedals",
           "correct": false
         },
@@ -2523,7 +2523,7 @@ window.BANK = {
       "q_en": "What is wing loading?",
       "cat": "Medžiagos",
       "cat_en": "Equipment",
-      "why_lt": "Sparno apkrova - tai bendras skraidantis svoris (pilotas ir iranga) padalintas iš kupolo ploto. Ji išreiškiama kg/m2 ir lemia skrydZio charakteristikas: didesne apkrova - greitesnis skrydis, mazesne - švelnesnIs.",
+      "why_lt": "Sparno apkrova - tai bendras skraidantis svoris (pilotas ir įranga) padalintas iš kupolo ploto. Ji išreiškiama kg/m2 ir lemia skrydžio charakteristikas: didesnė apkrova - greitesnis skrydis, mažesnė - švelnesnis.",
       "why_en": "Wing loading is the total flying weight (pilot plus equipment) divided by the wing area. Expressed in kg/m2, it determines flight characteristics: higher loading means faster flight, lower loading means gentler handling.",
       "multi": false,
       "options": [
@@ -2533,33 +2533,33 @@ window.BANK = {
           "correct": true
         },
         {
-          "t_lt": "Kupolo ir stropu bendras svoris",
+          "t_lt": "Kupolo ir stropų bendras svoris",
           "t_en": "Combined weight of canopy and lines",
           "correct": false
         },
         {
-          "t_lt": "Maksimali apkrova, kuria kupolas gali atlaikyti",
+          "t_lt": "Maksimali apkrova, kurią kupolas gali atlaikyti",
           "t_en": "Maximum load the canopy can withstand",
           "correct": false
         },
         {
-          "t_lt": "Piloto svoris be irAngos",
+          "t_lt": "Piloto svoris be įrangos",
           "t_en": "Pilot weight without equipment",
           "correct": false
         }
       ]
     },
     {
-      "q_lt": "Ka reiškia terminas trimo greitis (angl. trim speed)?",
+      "q_lt": "Ką reiškia terminas trimo greitis (angl. trim speed)?",
       "q_en": "What does the term trim speed mean?",
       "cat": "Medžiagos",
       "cat_en": "Equipment",
-      "why_lt": "Trimo greitis - tai kupolo skrydZio greitis rankomis aukštai (be stabdžiu itempimo) ir nesinaudojant akseleratoriumi. Tai pagrindinis atskaitos greitis, nuo kurio skaiciuojama stabdžiu eiga ir akseleracijos galia.",
+      "why_lt": "Trimo greitis - tai kupolo skrydžio greitis rankomis aukštai (be stabdžių įtempimo) ir nesinaudojant akseleratoriumi. Tai pagrindinis atskaitos greitis, nuo kurio skaičiuojama stabdžių eiga ir akseleracijos galia.",
       "why_en": "Trim speed is the canopy airspeed with hands up (no brake input) and without using the speed bar. It is the baseline reference speed from which brake travel and speed bar effect are measured.",
       "multi": false,
       "options": [
         {
-          "t_lt": "Kupolo greitis rankomis aukštai, be stabdžiu ar akseleratoriaus",
+          "t_lt": "Kupolo greitis rankomis aukštai, be stabdžių ar akseleratoriaus",
           "t_en": "Canopy speed with hands up, no brakes or speed bar applied",
           "correct": true
         },
@@ -2574,28 +2574,28 @@ window.BANK = {
           "correct": false
         },
         {
-          "t_lt": "Minimalus greitis prieš sąstingi",
+          "t_lt": "Minimalus greitis prieš sąstingį",
           "t_en": "Minimum speed just before stall",
           "correct": false
         }
       ]
     },
     {
-      "q_lt": "Kas yra greicio sistema (akseleratorius) parasparnio irangoje?",
+      "q_lt": "Kas yra greičio sistema (akseleratorius) parasparnio įrangoje?",
       "q_en": "What is a speed system in paraglider equipment?",
       "cat": "Medžiagos",
       "cat_en": "Equipment",
-      "why_lt": "Greicio sistema - koja valdoma sistema, kuri per lyno-skriemulio mechanizma stumia priekinius rizeriius zemiyn, sumazinant puolimo kampa ir didinant skrydZio greiti. Naudojama priekvejiniuose ar tolimojo nuotolio skrydžiuose.",
+      "why_lt": "Greičio sistema - koja valdoma sistema, kuri per lyno-skriemulio mechanizmą stumia priekinius rizerius žemyn, sumažinant puolimo kampą ir didinant skrydžio greitį. Naudojama priekvėjiniuose ar tolimojo nuotolio skrydžiuose.",
       "why_en": "The speed system is a foot-operated system that pushes the front risers down via a pulley-and-cord mechanism, reducing the angle of attack and increasing airspeed. Used in headwind or cross-country flying.",
       "multi": false,
       "options": [
         {
-          "t_lt": "Koja valdoma sistema, kuri per skriemulius stumia rizeriius zemiyn, didinant greiti",
+          "t_lt": "Koja valdoma sistema, kuri per skriemulius stumia rizerius žemyn, didinant greitį",
           "t_en": "Foot-operated system that pushes risers down via pulleys to increase speed",
           "correct": true
         },
         {
-          "t_lt": "Rankinis greicio valdiklis prie stabdžiu rankeneeliu",
+          "t_lt": "Rankinis greičio valdiklis prie stabdžių rankenėlių",
           "t_en": "Manual speed controller attached to the brake toggles",
           "correct": false
         },
@@ -4867,31 +4867,31 @@ window.BANK = {
       ]
     },
     {
-      "q_lt": "Kurie teiginiai apie stropu eiliu kategorijas (A, B, C, D) yra teisingi?",
+      "q_lt": "Kurie teiginiai apie stropų eilių kategorijas (A, B, C, D) yra teisingi?",
       "q_en": "Which statements about line categories (A, B, C, D) are correct?",
       "cat": "Medžiagos",
       "cat_en": "Equipment",
-      "why_lt": "A eile - priekine, jungiama prie nosies; D eile - galine, jungiama prie kupolo galinio briauno. A eile naudojama Big Ears manevrams. Stropai klasifikuojami pagal padeti kupole.",
+      "why_lt": "A eilė - priekinė, jungiama prie nosies; D eilė - galinė, jungiama prie kupolo galinio briauno. A eilė naudojama Big Ears manevrams. Stropai klasifikuojami pagal padėtį kupole.",
       "why_en": "The A row is the front row attached to the nose; the D row is the rear row attached to the trailing edge. A-lines are used for Big Ears. Lines are classified by their position on the canopy.",
       "multi": true,
       "options": [
         {
-          "t_lt": "A eile jungiama prie kupolo priekinio briauno (nosies)",
+          "t_lt": "A eilė jungiama prie kupolo priekinio briauno (nosies)",
           "t_en": "A-lines attach to the leading edge (nose) of the canopy",
           "correct": true
         },
         {
-          "t_lt": "D eile jungiama prie kupolo galinio briauno",
+          "t_lt": "D eilė jungiama prie kupolo galinio briauno",
           "t_en": "D-lines attach to the trailing edge of the canopy",
           "correct": true
         },
         {
-          "t_lt": "Visos stropu eiles turi vienoda ilgi",
+          "t_lt": "Visos stropų eilės turi vienodą ilgį",
           "t_en": "All line rows have the same length",
           "correct": false
         },
         {
-          "t_lt": "B eile yra arciausia piloto galvos",
+          "t_lt": "B eilė yra arčiausia piloto galvos",
           "t_en": "The B-row is the closest to the pilot's head",
           "correct": false
         }
@@ -4902,17 +4902,17 @@ window.BANK = {
       "q_en": "Which statements about harness back protectors are correct?",
       "cat": "Medžiagos",
       "cat_en": "Equipment",
-      "why_lt": "Nugaros apsauga gali buti putplascio arba oro pagalves tipo. Oro pagalves apsaugos aktyvuojasi automatiškai skrydZio metu ir užpildomos oru. Apsauga svarbi nukritimo atveju.",
+      "why_lt": "Nugaros apsauga gali būti putplasčio arba oro pagalvės tipo. Oro pagalvės apsaugos aktyvuojasi automatiškai skrydžio metu ir užpildomos oru. Apsauga svarbi nukritimo atveju.",
       "why_en": "Back protectors can be foam or airbag type. Airbag protectors self-inflate during flight. The protector is important during landing and fall impacts.",
       "multi": true,
       "options": [
         {
-          "t_lt": "Nugaros apsauga gali buti putplascio arba oro pagalves tipo",
+          "t_lt": "Nugaros apsauga gali būti putplasčio arba oro pagalvės tipo",
           "t_en": "Back protectors can be foam or airbag type",
           "correct": true
         },
         {
-          "t_lt": "Oro pagalves apsaugos išsiplecia skrydZio metu",
+          "t_lt": "Oro pagalvės apsaugos išsipučia skrydžio metu",
           "t_en": "Airbag protectors inflate during flight",
           "correct": true
         },
@@ -4922,7 +4922,7 @@ window.BANK = {
           "correct": false
         },
         {
-          "t_lt": "Nugaros apsauga negali daryti itakos skrydZio charakteristikoms",
+          "t_lt": "Nugaros apsauga negali daryti įtakos skrydžio charakteristikoms",
           "t_en": "Back protectors cannot affect flight characteristics",
           "correct": false
         }
@@ -4933,7 +4933,7 @@ window.BANK = {
       "q_en": "Which statements about EN certification testing are correct?",
       "cat": "Medžiagos",
       "cat_en": "Equipment",
-      "why_lt": "EN sertifikavimas apima skrydZio bandymus, iskaitant sąstingi, spirale ir simetrinius bei asimetrinius sulankstus. Bandymai atliekami su bandomuoju pilotu ir matuojama atsigavimo trukme.",
+      "why_lt": "EN sertifikavimas apima skrydžio bandymus, įskaitant sąstingį, spiralę ir simetrinius bei asimetrinius sulankstus. Bandymai atliekami su bandomuoju pilotu ir matuojama atsigavimo trukmė.",
       "why_en": "EN certification includes flight tests such as stall, spiral dive, and symmetric and asymmetric collapses. Tests are conducted with a test pilot and recovery time is measured.",
       "multi": true,
       "options": [
@@ -4943,43 +4943,43 @@ window.BANK = {
           "correct": true
         },
         {
-          "t_lt": "Atsigavimo trukme yra vienas iš vertinimo kriteriju",
+          "t_lt": "Atsigavimo trukmė yra vienas iš vertinimo kriterijų",
           "t_en": "Recovery time is one of the evaluation criteria",
           "correct": true
         },
         {
-          "t_lt": "EN sertifikavimas atliekamas tik skaitmeninese simuliacijose",
+          "t_lt": "EN sertifikavimas atliekamas tik skaitmeninėse simuliacijose",
           "t_en": "EN certification is done only in digital simulations",
           "correct": false
         },
         {
-          "t_lt": "EN D klases sparnai netikrinami del spirales",
+          "t_lt": "EN D klasės sparnai netikrinami dėl spiralės",
           "t_en": "EN D class wings are not tested for spiral dive",
           "correct": false
         }
       ]
     },
     {
-      "q_lt": "Kurie teiginiai apie variometra yra teisingi?",
+      "q_lt": "Kurie teiginiai apie variometrą yra teisingi?",
       "q_en": "Which statements about a variometer are correct?",
       "cat": "Medžiagos",
       "cat_en": "Equipment",
-      "why_lt": "Variometras naudoja atmosferos slEgio pokycius aukšciui nustatyti ir kilimo/kritimo greiciui apskaiciuoti. Garso signalas keiciasi priklausomai nuo kylimo (kylantis tonas) arba kritimo (žemas tonas).",
+      "why_lt": "Variometras naudoja atmosferos slėgio pokyčius aukščiui nustatyti ir kilimo/kritimo greičiui apskaičiuoti. Garso signalas keičiasi priklausomai nuo kylimo (kylantis tonas) arba kritimo (žemas tonas).",
       "why_en": "A variometer uses atmospheric pressure changes to determine altitude and calculate climb/sink rate. The audio signal changes depending on climbing (rising tone) or sinking (low tone).",
       "multi": true,
       "options": [
         {
-          "t_lt": "Variometras naudoja atmosferos slEgio pokycius",
+          "t_lt": "Variometras naudoja atmosferos slėgio pokyčius",
           "t_en": "The variometer uses atmospheric pressure changes",
           "correct": true
         },
         {
-          "t_lt": "Garso signalas keiciasi kilimo ir kritimo metu",
+          "t_lt": "Garso signalas keičiasi kilimo ir kritimo metu",
           "t_en": "The audio signal changes during climb and sink",
           "correct": true
         },
         {
-          "t_lt": "Variometras rodo horizontalu greiti",
+          "t_lt": "Variometras rodo horizontalų greitį",
           "t_en": "The variometer shows horizontal speed",
           "correct": false
         },
@@ -4995,43 +4995,43 @@ window.BANK = {
       "q_en": "Which statements about reserve parachute deployment are correct?",
       "cat": "Medžiagos",
       "cat_en": "Equipment",
-      "why_lt": "Atsarginis parašiutas turi buti aktyvuotas kiek imanoma greiciau esant kritinei situacijai. Po aktyvavimo rekomenduojama paleisti pagrindinI kupola, kad jis nesusipyniutu. Reikia valdyti nusileidima.",
+      "why_lt": "Atsarginis parašiutas turi būti aktyvuotas kiek įmanoma greičiau esant kritinei situacijai. Po aktyvavimo rekomenduojama paleisti pagrindinį kupolą, kad jis nesusipyniotų. Reikia valdyti nusileidimą.",
       "why_en": "The reserve should be deployed as quickly as possible in a critical situation. After deployment it is recommended to release the main canopy to prevent entanglement. Landing should be controlled.",
       "multi": true,
       "options": [
         {
-          "t_lt": "Atsargini reikia aktyvuoti kuo greiciau kritineeje situacijoje",
+          "t_lt": "Atsarginį reikia aktyvuoti kuo greičiau kritinėje situacijoje",
           "t_en": "The reserve should be deployed as fast as possible in a critical situation",
           "correct": true
         },
         {
-          "t_lt": "Po aktyvavimo rekomenduojama paleisti pagrindinI kupola",
+          "t_lt": "Po aktyvavimo rekomenduojama paleisti pagrindinį kupolą",
           "t_en": "After deployment it is recommended to release the main canopy",
           "correct": true
         },
         {
-          "t_lt": "Atsarginis parašiutas visada atsidarys greiciau nei pagrindinis",
+          "t_lt": "Atsarginis parašiutas visada atsidarys greičiau nei pagrindinis",
           "t_en": "The reserve parachute always opens faster than the main canopy",
           "correct": false
         },
         {
-          "t_lt": "Atsargini galima aktyvuoti tik virš 500 m aukšcio",
+          "t_lt": "Atsarginį galima aktyvuoti tik virš 500 m aukščio",
           "t_en": "The reserve can only be deployed above 500 m altitude",
           "correct": false
         }
       ]
     },
     {
-      "q_lt": "Kokie veiksniai lemia sparno apkrova?",
+      "q_lt": "Kokie veiksniai lemia sparno apkrovą?",
       "q_en": "Which factors affect wing loading?",
       "cat": "Medžiagos",
       "cat_en": "Equipment",
-      "why_lt": "Sparno apkrova lemia bendras skraidantis svoris (pilotas, iranga, drabuZiai) ir kupolo plotas. Papildoma iranga padidina svori ir taip apkrova; didesnis kupolo plotas ja sumazina.",
+      "why_lt": "Sparno apkrovą lemia bendras skraidantis svoris (pilotas, įranga, drabužiai) ir kupolo plotas. Papildoma įranga padidina svorį ir taip apkrovą; didesnis kupolo plotas ją sumažina.",
       "why_en": "Wing loading depends on total flying weight (pilot, equipment, clothing) and canopy area. Additional equipment increases weight and thus loading; a larger canopy reduces it.",
       "multi": true,
       "options": [
         {
-          "t_lt": "Piloto ir irangos bendras svoris",
+          "t_lt": "Piloto ir įrangos bendras svoris",
           "t_en": "Combined weight of pilot and equipment",
           "correct": true
         },
@@ -5046,38 +5046,38 @@ window.BANK = {
           "correct": false
         },
         {
-          "t_lt": "Petnesu gamintojo šalis",
+          "t_lt": "Petnešų gamintojo šalis",
           "t_en": "Country of manufacture of the harness",
           "correct": false
         }
       ]
     },
     {
-      "q_lt": "Kurie teiginiai apie stropu devejima ir tikrinima yra teisingi?",
+      "q_lt": "Kurie teiginiai apie stropų dėvėjimą ir tikrinimą yra teisingi?",
       "q_en": "Which statements about line wear and inspection are correct?",
       "cat": "Medžiagos",
       "cat_en": "Equipment",
-      "why_lt": "Stropai laikui begant sensta del UV spinduliu, trinties ir mechaninio nusidEvejimo. Susipluke, susipyne ar matomi pazaidimai yra signalas keisti stropolus. Reguliarus tikrinimas sertifikuotame servise yra svarbus.",
+      "why_lt": "Stropai laikui bėgant sensta dėl UV spindulių, trinties ir mechaninio nusidėvėjimo. Suplyšę, susipynę ar matomi pažeidimai yra signalas keisti stropus. Reguliarus tikrinimas sertifikuotame servise yra svarbus.",
       "why_en": "Lines age over time due to UV exposure, friction, and mechanical wear. Fuzzing, kinks, or visible damage are signs for replacement. Regular inspection at a certified service is important.",
       "multi": true,
       "options": [
         {
-          "t_lt": "UV spinduliai ir trintis gali pazaisti stropolus laikui begant",
+          "t_lt": "UV spinduliai ir trintis gali pažeisti stropus laikui bėgant",
           "t_en": "UV and friction can damage lines over time",
           "correct": true
         },
         {
-          "t_lt": "Matomi pazaidimai yra signalas keisti stropolus",
+          "t_lt": "Matomi pažeidimai yra signalas keisti stropus",
           "t_en": "Visible damage is a sign to replace lines",
           "correct": true
         },
         {
-          "t_lt": "Stropai niekada nesusidevI, jei laikomi sausoje vietoje",
+          "t_lt": "Stropai niekada nesidėvi, jei laikomi sausoje vietoje",
           "t_en": "Lines never wear out if stored in a dry place",
           "correct": false
         },
         {
-          "t_lt": "Stropu spalva rodo ju stipruma",
+          "t_lt": "Stropų spalva rodo jų stiprumą",
           "t_en": "Line colour indicates their strength",
           "correct": false
         }
@@ -5088,17 +5088,17 @@ window.BANK = {
       "q_en": "Which statements about a GPS/vario device are correct?",
       "cat": "Medžiagos",
       "cat_en": "Equipment",
-      "why_lt": "GPS/vario prietaisas kombinuoja GPS vietos nustatymą su variometro funkcija. Jis gali rodyti maršruta, likusI atstuma iki tikslo, skrydZio greiti virš zemes ir kilimo/kritimo greiti.",
+      "why_lt": "GPS/vario prietaisas kombinuoja GPS vietos nustatymą su variometro funkcija. Jis gali rodyti maršrutą, likusį atstumą iki tikslo, skrydžio greitį virš žemės ir kilimo/kritimo greitį.",
       "why_en": "A GPS/vario device combines GPS positioning with variometer function. It can display the route, remaining distance to goal, ground speed, and climb/sink rate.",
       "multi": true,
       "options": [
         {
-          "t_lt": "GPS/vario rodo kilimo/kritimo greiti ir GPS koordinates",
+          "t_lt": "GPS/vario rodo kilimo/kritimo greitį ir GPS koordinates",
           "t_en": "GPS/vario shows climb/sink rate and GPS coordinates",
           "correct": true
         },
         {
-          "t_lt": "Gali rodyti maršruta ir likusI atstuma iki tikslo",
+          "t_lt": "Gali rodyti maršrutą ir likusį atstumą iki tikslo",
           "t_en": "Can display the route and remaining distance to goal",
           "correct": true
         },
@@ -5108,64 +5108,64 @@ window.BANK = {
           "correct": false
         },
         {
-          "t_lt": "GPS/vario nereikalingas zemumose skrydžiams",
+          "t_lt": "GPS/vario nereikalingas žemumose skrydžiams",
           "t_en": "GPS/vario is unnecessary for low-level flights",
           "correct": false
         }
       ]
     },
     {
-      "q_lt": "Kurie teiginiai apie greicio sistemos mechanizma yra teisingi?",
+      "q_lt": "Kurie teiginiai apie greičio sistemos mechanizmą yra teisingi?",
       "q_en": "Which statements about the speed system mechanism are correct?",
       "cat": "Medžiagos",
       "cat_en": "Equipment",
-      "why_lt": "Greicio sistema veikia per skriemulio-lyno mechanizma, sujungta su A ir B rizeriu. Koja spaudžiant pedala, rizerius stumiami zemiyn, keiciamas puolimo kampas. Tai sumazina sąstingio atsarga ir padidina greicio diapazona.",
+      "why_lt": "Greičio sistema veikia per skriemulio-lyno mechanizmą, sujungtą su A ir B rizeriu. Koja spaudžiant pedalą, rizeriu stumiami žemyn, keičiamas puolimo kampas. Tai sumažina sąstingio atsargą ir padidina greičio diapazoną.",
       "why_en": "The speed system works via a pulley-cord mechanism connected to the A and B risers. Pressing the pedal pushes the risers down, changing the angle of attack. This reduces the stall margin and increases the speed range.",
       "multi": true,
       "options": [
         {
-          "t_lt": "Greicio sistema veikia per skriemulio-lyno mechanizma",
+          "t_lt": "Greičio sistema veikia per skriemulio-lyno mechanizmą",
           "t_en": "The speed system works via a pulley-cord mechanism",
           "correct": true
         },
         {
-          "t_lt": "Naudojant greicio sistema sumazeja sąstingio atsarga",
+          "t_lt": "Naudojant greičio sistemą sumažėja sąstingio atsarga",
           "t_en": "Using the speed system reduces the stall margin",
           "correct": true
         },
         {
-          "t_lt": "Greicio sistema nekeicia kupolo puolimo kampo",
+          "t_lt": "Greičio sistema nekeičia kupolo puolimo kampo",
           "t_en": "The speed system does not change the canopy angle of attack",
           "correct": false
         },
         {
-          "t_lt": "Greicio sistema veikia per rankinius valdiklius prie rankeneeliu",
+          "t_lt": "Greičio sistema veikia per rankinius valdiklius prie rankenėlių",
           "t_en": "The speed system works via hand controls at the toggles",
           "correct": false
         }
       ]
     },
     {
-      "q_lt": "Kurie teiginiai apie kupolo poringuma (angl. porosity) yra teisingi?",
+      "q_lt": "Kurie teiginiai apie kupolo poringumą (angl. porosity) yra teisingi?",
       "q_en": "Which statements about canopy porosity are correct?",
       "cat": "Medžiagos",
       "cat_en": "Equipment",
-      "why_lt": "Laikui begant kupolo audinys tampa poringesnis - oras pradeda prasilsti pro medZiaga. PadiEjees poringumas mazina kupolo vidinI spaudima, daro ji letesnI ir maziau reaktyvu. Reguliarus tikrinimas yra svarbus.",
+      "why_lt": "Laikui bėgant kupolo audinys tampa poramesnis - oras pradeda praslysti pro medžiagą. Padidėjęs poringumas mažina kupolo vidinį spaudimą, daro jį lėtesnį ir mažiau reaktyvų. Reguliarus tikrinimas yra svarbus.",
       "why_en": "Over time canopy fabric becomes more porous - air starts to permeate through the material. Increased porosity reduces canopy pressure, making it slower and less responsive. Regular checking is important.",
       "multi": true,
       "options": [
         {
-          "t_lt": "Laikui begant kupolo audinys gali tapti poringesnis",
+          "t_lt": "Laikui bėgant kupolo audinys gali tapti poramesnis",
           "t_en": "Over time canopy fabric can become more porous",
           "correct": true
         },
         {
-          "t_lt": "PadiEjees poringumas mazina kupolo vidinI spaudima",
+          "t_lt": "Padidėjęs poringumas mažina kupolo vidinį spaudimą",
           "t_en": "Increased porosity reduces canopy internal pressure",
           "correct": true
         },
         {
-          "t_lt": "Poringumas neturi itakos skrydZio charakteristikoms",
+          "t_lt": "Poringumas neturi įtakos skrydžio charakteristikoms",
           "t_en": "Porosity does not affect flight characteristics",
           "correct": false
         },
@@ -7146,11 +7146,11 @@ window.BANK = {
       ]
     },
     {
-      "q_lt": "Kurie manevru tipai yra itraukti i EN 926-2 sertifikavimo bandymus?",
+      "q_lt": "Kurie manevų tipai yra įtraukti į EN 926-2 sertifikavimo bandymus?",
       "q_en": "Which manoeuvre types are included in EN 926-2 certification tests?",
       "cat": "Medžiagos",
       "cat_en": "Equipment",
-      "why_lt": "EN 926-2 standarte apibrEzti bandymai apima: simetrinius priekinio sulanksto bandymus, asimetrinius sulankstus (dazniausiai 50 ir 75 proc.), spiraline odija ir staigaus sąstingio bandyma (full stall). Kiekvienas bandymas vertinamas pagal atsigavimo laika ir elgsena.",
+      "why_lt": "EN 926-2 standarte apibrėžti bandymai apima: simetrinius priekinio sulanksto bandymus, asimetrinius sulankstus (dažniausiai 50 ir 75 proc.), spiralinę odiją ir staigaus sąstingio bandymą (full stall). Kiekvienas bandymas vertinamas pagal atsigavimo laiką ir elgseną.",
       "why_en": "EN 926-2 tests include: symmetric front collapse, asymmetric collapse (typically 50% and 75%), spiral dive, and full stall tests. Each is assessed by recovery time and behaviour.",
       "multi": true,
       "options": [
@@ -7165,43 +7165,43 @@ window.BANK = {
           "correct": true
         },
         {
-          "t_lt": "SkrydZis tamsoje be prietaisu",
+          "t_lt": "Skrydžis tamsoje be prietaisų",
           "t_en": "Blind flight without instruments",
           "correct": false
         },
         {
-          "t_lt": "Bandymas su maksimalia apkrova smEgio turbulencijoje",
+          "t_lt": "Bandymas su maksimalia apkrova smūgio turbulencijoje",
           "t_en": "Test at maximum load in impact turbulence",
           "correct": false
         }
       ]
     },
     {
-      "q_lt": "Kokios pasekmEs skrendant su susidEvEjusiais ar senais stropais?",
+      "q_lt": "Kokios pasekmės skrendant su susidėvėjusiais ar senais stropais?",
       "q_en": "What are the consequences of flying with degraded or aged lines?",
       "cat": "Medžiagos",
       "cat_en": "Equipment",
-      "why_lt": "SusidEvEje stropai gali turEti sumažintą stipruma, skirtingą ilgi (deformavimasis) arba pasikeitus ju elastingumui. Tai gali sukelti netolygI kupolo profili, prastesnI atsigavimą po sulanksto ir nenuspEjama elgsena.",
+      "why_lt": "Susidėvėję stropai gali turėti sumažintą stiprumą, skirtingą ilgį (deformavimasis) arba pasikeitus jų elastingumui. Tai gali sukelti netolygų kupolo profilį, prastesnį atsigavimą po sulanksto ir nenuspėjamą elgseną.",
       "why_en": "Degraded lines may have reduced strength, differential elongation, or changed elasticity. This can lead to an uneven canopy profile, poor recovery from collapses, and unpredictable behaviour.",
       "multi": true,
       "options": [
         {
-          "t_lt": "Stropu stiprumas gali buti sumazEjEs",
+          "t_lt": "Stropų stiprumas gali būti sumažėjęs",
           "t_en": "Line strength may be reduced",
           "correct": true
         },
         {
-          "t_lt": "Netolygus stropu ilgis gali iškraipyti kupolo profili",
+          "t_lt": "Netolygus stropų ilgis gali iškraipyti kupolo profilį",
           "t_en": "Differential line elongation can distort the canopy profile",
           "correct": true
         },
         {
-          "t_lt": "SusidEvEje stropai visada nutruksta ore",
+          "t_lt": "Susidėvėję stropai visada nutrūksta ore",
           "t_en": "Degraded lines always break in the air",
           "correct": false
         },
         {
-          "t_lt": "Seni stropai padidina skrydZio greicio diapazona",
+          "t_lt": "Seni stropai padidina skrydžio greičio diapazoną",
           "t_en": "Old lines increase the speed range of the glider",
           "correct": false
         }
@@ -7212,7 +7212,7 @@ window.BANK = {
       "q_en": "What determines the glide ratio of a paraglider?",
       "cat": "Medžiagos",
       "cat_en": "Equipment",
-      "why_lt": "Sklandymo santyki lemia aerodinaminis efektyvumas (L/D santykis), sparno geometrija (ilgumas, forma), kupolo poringumas ir stropu geometrija. Aukštesnis ilgumas ir mazesnis pasipriešinimas gerina sklandyma. Aerodinamines kliuciu mazinimas (pilotas, iranga) taip pat svarbu.",
+      "why_lt": "Sklandymo santykį lemia aerodinaminis efektyvumas (L/D santykis), sparno geometrija (ilgumas, forma), kupolo poringumas ir stropų geometrija. Aukštesnis ilgumas ir mažesnis pasipriešinimas gerina sklandymą. Aerodinaminių kliūčių mažinimas (pilotas, įranga) taip pat svarbu.",
       "why_en": "Glide ratio is determined by aerodynamic efficiency (L/D ratio), wing geometry (aspect ratio, shape), canopy porosity, and line geometry. Higher aspect ratio and lower drag improve glide. Reducing aerodynamic blockage from pilot and equipment also matters.",
       "multi": true,
       "options": [
@@ -7227,7 +7227,7 @@ window.BANK = {
           "correct": true
         },
         {
-          "t_lt": "Stropu skaicius neturi jokios itakos sklandymui",
+          "t_lt": "Stropų skaičius neturi jokios įtakos sklandymui",
           "t_en": "The number of lines has no effect on glide",
           "correct": false
         },
@@ -7239,21 +7239,21 @@ window.BANK = {
       ]
     },
     {
-      "q_lt": "Kaip identifikuoti stropu pazaidimai prieš skrydZio tikrinimo metu?",
+      "q_lt": "Kaip identifikuoti stropų pažeidimus prieš skrydžio tikrinimo metu?",
       "q_en": "How do you identify line damage during pre-flight inspection?",
       "cat": "Medžiagos",
       "cat_en": "Equipment",
-      "why_lt": "Prieš skrydZio tikrinimo metu reikia vizualiai apžiurEti kiekviena stropa nuo rizerio iki kupolo, apciupojant pirštais ieškoti mazgu, itrukimu ar suveltos vidinio pluošto. Taip pat tikrinama stropu geometrija - ar visi susirinkE tolygiai.",
+      "why_lt": "Prieš skrydžio tikrinimo metu reikia vizualiai apžiūrėti kiekvieną stropą nuo rizerio iki kupolo, apčiupojant pirštais ieškoti mazgų, įtrūkimų ar suveltos vidinio pluošto. Taip pat tikrinama stropų geometrija - ar visi susirinko tolygiai.",
       "why_en": "Pre-flight inspection involves visually checking each line from riser to canopy, running fingers along each line to detect knots, cuts, or sheath damage. Line geometry should also be checked to ensure all lines gather evenly.",
       "multi": true,
       "options": [
         {
-          "t_lt": "Vizualiai apžiurEti kiekviena stropa nuo rizerio iki kupolo",
+          "t_lt": "Vizualiai apžiūrėti kiekvieną stropą nuo rizerio iki kupolo",
           "t_en": "Visually inspect each line from riser to canopy",
           "correct": true
         },
         {
-          "t_lt": "Apciupojant pirštais ieškoti mazgu, itrukimu ar apgadintu apvalalu",
+          "t_lt": "Apčiupojant pirštais ieškoti mazgų, įtrūkimų ar apgadintų apvalų",
           "t_en": "Run fingers along lines to detect knots, cuts or sheath damage",
           "correct": true
         },
@@ -7263,7 +7263,7 @@ window.BANK = {
           "correct": false
         },
         {
-          "t_lt": "Tereikia patikrinti tik A eiles stropolus",
+          "t_lt": "Tereikia patikrinti tik A eilės stropus",
           "t_en": "Only the A-lines need to be checked",
           "correct": false
         }
@@ -7274,7 +7274,7 @@ window.BANK = {
       "q_en": "What are the risks of flying a glider outside its certified weight range?",
       "cat": "Medžiagos",
       "cat_en": "Equipment",
-      "why_lt": "Skraidant per lengvam - kupolas gali tapti nestabilus, lEtas atsigauti po perturbaciju. Skraidant per sunkiam - kupolas tampa per greitai valdomas, sąstingis pasiekiamas mažesniu stabdymo keliu. Abu atvejai pavojingi.",
+      "why_lt": "Skraidant per lengvam - kupolas gali tapti nestabilus, lėtas atsigauti po perturbacijų. Skraidant per sunkiam - kupolas tampa per greitai valdomas, sąstingis pasiekiamas mažesniu stabdymo keliu. Abu atvejai pavojingi.",
       "why_en": "Flying underweight - the canopy may become unstable and slow to recover from disturbances. Flying overweight - the canopy responds faster and stall is reached with less brake travel. Both cases are dangerous.",
       "multi": true,
       "options": [
@@ -7289,7 +7289,7 @@ window.BANK = {
           "correct": true
         },
         {
-          "t_lt": "Svorio diapazonas neturi itakos skrydZio charakteristikoms",
+          "t_lt": "Svorio diapazonas neturi įtakos skrydžio charakteristikoms",
           "t_en": "The weight range has no effect on flight characteristics",
           "correct": false
         },
@@ -7301,47 +7301,47 @@ window.BANK = {
       ]
     },
     {
-      "q_lt": "Kaip kameru angu konstrukcija veikia kupolo prisotinima oru?",
+      "q_lt": "Kaip kamerų angų konstrukcija veikia kupolo prisotinimą oru?",
       "q_en": "How does cell opening design affect canopy pressurisation?",
       "cat": "Medžiagos",
       "cat_en": "Equipment",
-      "why_lt": "Kameru angu forma, dydis ir kiekis lemia, kaip greitai ir tolygiai kupolas prisotinamas oru. DidesnEs angos - greitesnis prisotinimas, bet galimas spaudimo praradimas turbulencijoje. Mažesnees angos - letesnis, bet stabalesnis prisotinimas.",
+      "why_lt": "Kamerų angų forma, dydis ir kiekis lemia, kaip greitai ir tolygiai kupolas prisotinamas oru. Didesnės angos - greitesnis prisotinimas, bet galimas spaudimo praradimas turbulencijoje. Mažesnės angos - lėtesnis, bet stabalesnis prisotinimas.",
       "why_en": "Cell opening shape, size, and number determines how quickly and evenly the canopy pressurises. Larger openings - faster inflation but possible pressure loss in turbulence. Smaller openings - slower but more stable inflation. Modern design balances speed and stability.",
       "multi": true,
       "options": [
         {
-          "t_lt": "DidesnEs angos prisotina kupola greiciau",
+          "t_lt": "Didesnės angos prisotina kupolą greičiau",
           "t_en": "Larger openings pressurise the canopy faster",
           "correct": true
         },
         {
-          "t_lt": "Angu dydis ir skaicius veikia atsparuma turbulencijoje",
+          "t_lt": "Angų dydis ir skaičius veikia atsparumą turbulencijoje",
           "t_en": "Opening size and number affects resistance to turbulence",
           "correct": true
         },
         {
-          "t_lt": "Visu parasparnio angu dizainas yra vienodas",
+          "t_lt": "Visų parasparnių angų dizainas yra vienodas",
           "t_en": "All paragliders have the same cell opening design",
           "correct": false
         },
         {
-          "t_lt": "Didesnis angu skaicius visada gerina skrydZio efektyvuma",
+          "t_lt": "Didesnis angų skaičius visada gerina skrydžio efektyvumą",
           "t_en": "More openings always improve flight efficiency",
           "correct": false
         }
       ]
     },
     {
-      "q_lt": "Kokios techninEs skirtybEs tarp EN-A ir EN-D klases sparnu?",
+      "q_lt": "Kokios techninės skirtybės tarp EN-A ir EN-D klasės sparnų?",
       "q_en": "What are the technical differences between EN-A and EN-D class wings?",
       "cat": "Medžiagos",
       "cat_en": "Equipment",
-      "why_lt": "EN-A sparnai turi mažesnI ilguma, daugiau stropu, atviresnius profilius ir platU sąstingio atsarga - maksimalus pasyvus saugumas. EN-D sparnai turi didesnI ilguma (>7), maziau stropu, plonesnius profilius, mazesne stabdžio atsarga ir reikalauja aktyvaus valdymo. EN-D rekomenduojama tik patyrusiems pilotams.",
+      "why_lt": "EN-A sparnai turi mažesnį ilgumą, daugiau stropų, atviresnius profilius ir platų sąstingio atsargą - maksimalus pasyvus saugumas. EN-D sparnai turi didesnį ilgumą (>7), mažiau stropų, plonesnius profilius, mažesnę stabdžio atsargą ir reikalauja aktyvaus valdymo. EN-D rekomenduojama tik patyrusiems pilotams.",
       "why_en": "EN-A wings have lower aspect ratio, more lines, more open profiles and wide stall margin - maximum passive safety. EN-D wings have high aspect ratio (greater than 7), fewer lines, thinner profiles, smaller brake margin and require active piloting. EN-D is recommended only for experienced pilots.",
       "multi": true,
       "options": [
         {
-          "t_lt": "EN-A sparnai turi mažesnI ilguma ir didesnE sąstingio atsarga",
+          "t_lt": "EN-A sparnai turi mažesnį ilgumą ir didesnę sąstingio atsargą",
           "t_en": "EN-A wings have lower aspect ratio and wider stall margin",
           "correct": true
         },
@@ -7351,12 +7351,12 @@ window.BANK = {
           "correct": true
         },
         {
-          "t_lt": "EN-A ir EN-D sparnai turi vienodas skrydZio charakteristikas",
+          "t_lt": "EN-A ir EN-D sparnai turi vienodas skrydžio charakteristikas",
           "t_en": "EN-A and EN-D wings have identical flight characteristics",
           "correct": false
         },
         {
-          "t_lt": "EN-D klase yra saugesnE pradedantiesiems",
+          "t_lt": "EN-D klasė yra saugesnė pradedantiesiems",
           "t_en": "EN-D class is safer for beginners",
           "correct": false
         }
