@@ -218,20 +218,19 @@
     </div>
   </div>
 
-  <section class="exam">
-    <div class="leadline"><h2 id="exam-title">Lengvas lygis</h2><p id="exam-desc"></p></div>
-    <div id="questions"><div class="q" id="boot-note">
-  <div class="q-text">Atidaryk šį failą interneto naršyklėje</div>
-  <p style="color:#5E7180;font-size:14.5px;line-height:1.6">Jei matai tik šį pranešimą, o mygtukai viršuje neveikia — failas atidarytas peržiūros lange (el. laiško priede, „Failų“ programoje ar debesyje), kuris nepaleidžia klausimų.<br><br>
-  <b>Ką daryti:</b> telefone paspausk bendrinimo mygtuką ir pasirink <b>„Atidaryti naršyklėje“</b> (Safari / Chrome). Kompiuteryje – dešiniu pelės klavišu spausk failą → <b>Atidaryti su</b> → naršykle.<br><br>
-  <span style="color:#94A6B1;font-size:13px">Open this file in a web browser (Safari, Chrome) — not in a preview/attachment viewer — and the exam will load automatically.</span></p>
+  <section class=”exam”>
+    <div class=”leadline”><h2 id=”exam-title”>Pasirink lygį</h2><p id=”exam-desc”></p></div>
+    <div id=”questions”><div class=”q” id=”boot-note” style=”text-align:center;padding:32px 20px”>
+  <div class=”q-text” style=”font-size:18px;margin-bottom:12px”>Sveiki atvyk&ecirc;</div>
+  <p style=”color:#5E7180;font-size:15px;line-height:1.7;max-width:480px;margin:0 auto”>Pasirink lyg&iacute; viršuje, kad prad&eacute;tum testą. Pirmą kartą atidarius lyg&iacute; rodoma teorija, kuri&atilde; gali perskaityti prieš klausimus.<br><br>
+  <span style=”color:#94A6B1;font-size:13px”>Select a level above to start the quiz. Theory is shown before your first attempt at each level.</span></p>
 </div></div>
   </section>
 </div>
 
 <p class="footnote">Mokomasis įrankis, ne oficialus egzaminas ir ne skrydžių vadovas. Iliustracijos &ndash; supaprastintos schemos. Temos atitinka LSPSF parasparnio egzamino dalykus (Aerodinamika, Meteorologija, Medžiagos, Skraidymo praktika, Oro teisė). Tikslios oficialaus egzamino sąlygos gali skirtis &ndash; vadovaukis instruktoriaus ir aviacijos administracijos nurodymais.</p>
 
-<div class="actionbar" id="actionbar"><div class="actionbar-inner">
+<div class="actionbar hidden" id="actionbar"><div class="actionbar-inner">
   <div class="progress" id="progress">Atsakyta 0/25</div>
   <button class="btn btn-ghost" id="newBtn">Naujas egzaminas</button>
   <button class="btn btn-primary" id="checkBtn" disabled>Tikrinti atsakymus</button>
@@ -738,8 +737,6 @@ document.querySelectorAll(".lvl").forEach(btn=>{
 $("#checkBtn").addEventListener("click", ()=>{ if(!state.graded) grade(); });
 $("#newBtn").addEventListener("click", ()=>{ if(state.level!=="anatomy"){ state.quiz = buildQuiz(state.level); render(); }});
 
-selectLevel("easy");
-
 // Apply language on load
 applyLangToStaticUI();
 if (lang === 'en') {
@@ -752,12 +749,12 @@ if (lang === 'en') {
   <div style="max-width:720px;margin:0 auto;background:var(--card);border-radius:16px;padding:28px 28px 24px;box-shadow:0 24px 60px -20px rgba(0,0,0,.5)">
     <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:20px">
       <h2 id="modal-title-text" style="font-size:22px;font-weight:700;color:var(--ink)">Teorija</h2>
-      <button onclick="closeTheory(false)" style="appearance:none;border:0;background:none;font-size:26px;line-height:1;cursor:pointer;color:var(--muted);padding:2px 8px" aria-label="Uždaryti">&times;</button>
+      <button onclick="closeTheory(true)" style="appearance:none;border:0;background:none;font-size:26px;line-height:1;cursor:pointer;color:var(--muted);padding:2px 8px" aria-label="Uždaryti">&times;</button>
     </div>
     <div id="theory-content" style="max-height:60vh;overflow-y:auto;padding-right:4px"></div>
     <div style="margin-top:20px;display:flex;gap:12px;flex-wrap:wrap;border-top:1px solid var(--hair);padding-top:16px">
       <button id="theory-start-btn" class="btn btn-primary" onclick="closeTheory(true)" style="display:none">Pradėti testą</button>
-      <button class="btn btn-ghost" onclick="closeTheory(false)" id="theory-close-btn">Uždaryti</button>
+      <button class="btn btn-ghost" onclick="closeTheory(true)" id="theory-close-btn">Uždaryti</button>
     </div>
   </div>
 </div>
